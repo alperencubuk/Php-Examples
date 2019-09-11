@@ -1,0 +1,17 @@
+{
+    "name": "alperen.cubuk/fizz-buzz",
+    "require": {
+        "phpspec/phpspec": "^5.1"
+    },
+    "authors": [
+        {
+            "name": "alperencubuk",
+            "email": "alperencubuk@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}
